@@ -1,7 +1,7 @@
 React Native - Boilerplate
 ======================================
 
-For those of you who like to learn and are starting the path of React-Native, this project developed as a way of studies where it makes life easier for those who want to set up an initial setup.]
+For those of you who like to learn and are starting the path of React-Native, this project developed as a way of studies where it makes life easier for those who want to set up an initial setup.
 
 Getting Started
 ---------------
