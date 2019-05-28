@@ -9,11 +9,11 @@ To run application of the basic structure of the project, just follow the follow
 
 ```sh
 # clone it
-  git clone https://github.com/caioorg/react-api
-  cd react-api
+  git clone https://github.com/caioorg/react-native-boirlerplate
+  cd react-native-boirlerplate
 
 # Make it your own
-  rm -rf .git && git init && npm init
+  rm -rf .git && git init
 
 # Install dependencies
   yarn install
