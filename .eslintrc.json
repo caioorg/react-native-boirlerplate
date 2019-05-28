@@ -29,7 +29,10 @@
     "react-native/no-color-literals": "off",
     "react-native/sort-styles": "off",
     "global-require": "off",
-    "react-native/no-raw-text": "off"
+    "react-native/no-raw-text": "off",
+    "linebreak-style": [2],
+    "import/no-unresolved": [2, { "caseSensitive": false }],
+    "no-console": "off"
   },
   "settings": {
     "import/resolver": {
