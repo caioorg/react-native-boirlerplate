@@ -19,8 +19,8 @@ To run application of the basic structure of the project, just follow the follow
   yarn install
 
 # Start project development from Android
-react-native android
+react-native run-android
 
 # Start project development from IOS
-react-native IOS
+react-native run-ios
 ```
